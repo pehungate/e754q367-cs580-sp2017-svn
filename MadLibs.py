@@ -7,6 +7,7 @@
 #FIX ALL THE FORMATTING OF THE INPUT
 
 def mad_lib():
+	print("\nThis is the edit for the Software Engineering assignment!\n")
 	print("\nHello! This program functions as a Mad Lib generator.\n")
 	name = input("What is your name? ")
 	print("\nOkay {0}. Here are the 5 stories to choose from:".format(name))
